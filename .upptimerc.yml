@@ -3,17 +3,17 @@ owner: openbb-finance # Your GitHub organization or username, where this reposit
 repo: uptime # The name of this repository
 
 sites:
-  - name: OpenBB.co
+  - name: OpenBB Website
     url: https://openbb.co
-  - name: OpenBB Terminal Docs
+  - name: OpenBB Docs
     url: https://docs.openbb.co/
-  - name: Bot Platform
+  - name: OpenBB Hub
     url: $PAYMENTS_BACKEND_URL
   - name: OpenBB Pro
     url: $OPENBB_PRO_URL
-  - name: Pro Backend
+  - name: OpenBB Pro Backend
     url: $OPENBB_BACKEND_URL
-  - name: AI Backend
+  - name: OpenBB Ada
     url: $OPENBB_AI_URL
 
 status-website:
@@ -24,8 +24,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://cdn.statically.io/gh/openbb-finance/uptime/master/assets/logo.png
   name: OpenBB
-  introTitle: "**OpenBB** is a leading open source investment analysis company. Our mission is to make investment research effective, powerful and accessible to everyone."
-  introMessage: "Bot platform are dependent on Discord and Telegram status, if something is not working related to the bot verify [telegram status](https://downdetector.com/status/telegram/) and [discord status](https://discordstatus.com/)."
+  introTitle: "**OpenBB** is an enterprise AI platform for finance, empowering teams to unify data, automate research, and build custom investment workflows with full control and security."
+  introMessage: "This dashboard provides uptime status of public OpenBB-managed services. Community support is available via the official OpenBB GitHub and Discord server. For status, support, and troubleshooting of your own instance, refer to your system administrator."
   favicon: https://openbb.co/favicons/favicon-32x32.png
   navbar:
     - title: Status
