@@ -1,9 +1,9 @@
 [
   {
-    "name": "OpenBB.co",
+    "name": "OpenBB Website",
     "url": "https://openbb.co",
     "icon": "https://icons.duckduckgo.com/ip3/openbb.co.ico",
-    "slug": "open-bb-co",
+    "slug": "openbb-website",
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
@@ -22,10 +22,10 @@
     }
   },
   {
-    "name": "OpenBB Terminal Docs",
+    "name": "OpenBB Docs",
     "url": "https://docs.openbb.co/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.openbb.co.ico",
-    "slug": "open-bb-terminal-docs",
+    "slug": "openbb-docs",
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
@@ -40,10 +40,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Bot Platform",
+    "name": "OpenBB Hub",
     "url": "$PAYMENTS_BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "bot-platform",
+    "slug": "openbb-hub",
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
@@ -63,7 +63,7 @@
     "name": "OpenBB Pro",
     "url": "$OPENBB_PRO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "open-bb-pro",
+    "slug": "openbb-pro",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -80,10 +80,10 @@
     }
   },
   {
-    "name": "Pro Backend",
+    "name": "OpenBB Pro Backend",
     "url": "$OPENBB_BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "pro-backend",
+    "slug": "openbb-pro-backend",
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
@@ -98,10 +98,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "AI Backend",
+    "name": "OpenBB Ada",
     "url": "$OPENBB_AI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "ai-backend",
+    "slug": "openbb-ada",
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
